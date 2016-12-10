@@ -1,0 +1,6 @@
+在git使用的时候如果我们之前在建git仓库的时候就初始化了readme文件的话很大可能下我们第一次push的时候
+是push不上去的，需要我们去合并远程仓库中的readme和本地的文件，再push就可以了
+（ git pull --rebase origin master）
+第一次推git的时候，先关联地址：git remote add origin http:...
+全部push的时候：push -m origin master
+push最新的更新的时候：push origin master
