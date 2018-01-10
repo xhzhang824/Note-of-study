@@ -33,4 +33,4 @@
 1.继续完善技术文档，争取多人合作。
 
 
-![image]https://github.com/xiangxianghui/Note-of-study/blob/master/85051508225157200.png)
+![image]https://github.com/xiangxianghui/Note-of-study/raw/master/85051508225157200.png)
